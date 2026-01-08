@@ -1,4 +1,4 @@
-# Project 4 – Customer Support Performance Dashboard (Power BI)
+# Customer Support Performance Dashboard (Power BI)
 
 ## Project Overview
 This project demonstrates how a Business Analyst can use Power BI to support
