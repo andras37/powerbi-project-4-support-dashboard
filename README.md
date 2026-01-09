@@ -81,3 +81,5 @@ This project highlights:
 ---
 
 ## Repository Structure
+
+Dashboard file available in /powerbi folder.
