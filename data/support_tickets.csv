@@ -1,0 +1,3 @@
+TicketID;CreatedDate;ClosedDate;Status;Priority;Category;AssignedTeam;SLABreached
+1;2025.01.02;2025.01.04;Closed;High;Technical;Team A;No
+2;2025.01.03;;Open;Medium;Billing;Team B;Yes
